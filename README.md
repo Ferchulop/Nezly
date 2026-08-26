@@ -5,8 +5,7 @@
     <tr>
       <td align="center"><img src="https://github.com/user-attachments/assets/9a66c753-c74c-4f17-88ef-320190e67343" width="230" alt="Escanea"><br><sub><b>Escanea</b></sub></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/927566bd-e2f4-4501-8fa6-ac72ea361154" width="230" alt="Aprende"><br><sub><b>Aprende</b></sub></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/8fab0817-f6ee-45a3-80d4-9fcbfadada8e" width="230" alt="Conoce"><br><sub><b>Conoce</b></sub></td>
-      
+      <td align="center"><img src="https://github.com/user-attachments/assets/8fab0817-f6ee-45a3-80d4-9fcbfadada8e" width="230" alt="Conoce"><br><sub><b>Conoce</b></sub></td>  
     </tr>
     <tr>
       <td colspan="3" align="center">
