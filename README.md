@@ -8,7 +8,14 @@
       <td align="center"><img src="https://github.com/user-attachments/assets/99e6cdfc-2117-4a30-8e28-d6ae0d80dd05" width="230" alt="Crea"><br><sub><b>Crea</b></sub></td>
     </tr>
     <tr>
-      <td colspan="3" align="center"><br><img src="URL_DEL_LOGO" width="140" alt="Nezly"><br><br></td>
+      <td colspan="3" align="center">
+        <br>
+        <img src="https://github.com/user-attachments/assets/3bac86a3-5d16-45ac-89dc-1806832c7878" width="160" alt="Nezly">
+        <br><br>
+      </td>
+    </tr>
+    <tr>
+</td>
     </tr>
     <tr>
       <td align="center"><img src="https://github.com/user-attachments/assets/9beb74ee-e959-4825-a55c-c73c1f87d6de" width="230" alt="Encuentra"><br><sub><b>Encuentra</b></sub></td>
