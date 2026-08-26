@@ -1,4 +1,7 @@
-# Nezly
+<div align="center">
+  <h1>Nezly</h1>
+  <p><i>ESCANEO INTELIGENTE, UN CATÁLOGO ENORME, TU COLECCIÓN ORGANIZADA, DIARIO OLFATIVO, COMUNIDAD, Y... MIENTRAS TANTO APRENDE JUGANDO</i></p>
+  <table>
 
 <div align="center">
   <table>
