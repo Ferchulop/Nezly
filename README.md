@@ -19,7 +19,7 @@
     </tr>
     <tr>
       <td align="center"><img src="https://github.com/user-attachments/assets/9beb74ee-e959-4825-a55c-c73c1f87d6de" width="230" alt="Encuentra"><br><sub><b>Encuentra</b></sub></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/3f9d2225-273e-4088-a51f-c2f6f2df0847" width="230" alt="Tiendas"><br><sub><b>Tiendas</b></sub></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/3f9d2225-273e-4088-a51f-c2f6f2df0847" width="230" alt="Descubre"><br><sub><b>Tiendas</b></sub></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/9a66c753-c74c-4f17-88ef-320190e67343" width="230" alt="Escanea"><br><sub><b>Escanea</b></sub></td>
     </tr>
   </table>
